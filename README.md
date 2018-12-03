@@ -1,7 +1,7 @@
 # Projeto Tour of Heroes
 
 ## Instalação
-para clonar o repositório, digite: git clone https://github.com/mayllonveras/angular-loopback
+para clonar o repositório, digite: git clone https://github.com/Socorrinha/Hero
 
 ## Execução
 Execute o comando npm install dentro do diretório client.
